@@ -11,10 +11,10 @@ import java.util.Date;
 
 public class QiniuUploadUtil {
 
-    private static final String accessKey = "rejtT_MP2Ymmy4nwytfOEH3D-Z0nTfAhXkPwrcbT";
-    private static final String secretKey = "KugRqeND8ObzEjZOlkXdhumwITLrgGk8UcDQ-rMB";
-    private static final String bucket = "ihrm-images";//空间名
-    private static final String prix = "http://q9bn881u7.bkt.clouddn.com/";//上传成功后图片的路径
+    private static final String accessKey = "rejtT_MP2Ymmy4nhXkPwrcbT";
+    private static final String secretKey = "KugRqeND8ObzEjZOlkXdhumwrMB";
+    private static final String bucket = "ihages";//空间名
+    private static final String prix = "http://q9bn881louddn.com/";//上传成功后图片的路径
     private UploadManager manager;
 
     public QiniuUploadUtil() {
