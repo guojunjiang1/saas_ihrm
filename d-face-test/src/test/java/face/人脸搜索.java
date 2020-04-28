@@ -21,7 +21,7 @@ public class 人脸搜索 {
     public void testFaceSearch() throws Exception {
         //1.创建java代码和百度云交互的client对象
         //百度云，人脸识别应用里的
-        AipFace client = new AipFace("19622227","SZjekuXBmR0NiodOHTU9wKvp","AfOcwKpZs5v1mjlYm83FADX16ohUUesR");
+        AipFace client = new AipFace("19622227","","");
         //构造图片
         String path = "D:\\新桌面\\office\\WIN_20200427_09_52_16_Pro.jpg";
         byte[] bytes = Files.readAllBytes(Paths.get(path));
