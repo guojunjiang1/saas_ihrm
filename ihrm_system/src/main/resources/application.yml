@@ -30,11 +30,11 @@ jwt:
     ttl: 360000
 #百度云人脸识别
 ai:
-  appId: 19622227
-  apiKey: SZjekuXBmR0NiodOHTU9wKvp
-  secretKey: AfOcwKpZs5v1mjlYm83FADX16ohUUesR
+  appId: 19622
+  apiKey: SZjekuXBmROHTU9wKvp
+  secretKey: AfOcwKFADX16ohUUesR
   imageType: BASE64
-  groupId: guo
+  groupId: gu
 #扫描二维码后跳转的地址
 qr:
   url: http://localhost:8080/#/facelogin
