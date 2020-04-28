@@ -26,9 +26,9 @@ public class 将图片上传到青牛云 {
         //上传管理器
         UploadManager uploadManager = new UploadManager(cfg);
         //指定公钥私钥，存储空间名称
-        String accessKey = "rejtT_MP2Ymmy4nwytfOEH3D-Z0nTfAhXkPwrcbT";
-        String secretKey = "KugRqeND8ObzEjZOlkXdhumwITLrgGk8UcDQ-rMB";
-        String bucket = "ihrm-images";
+        String accessKey = "-";
+        String secretKey = "-";
+        String bucket = "ihrimages";
         //图片路径
         String localFilePath = "D:\\001.png";
         //存入到存储空间的文件名a
