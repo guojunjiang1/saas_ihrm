@@ -27,8 +27,8 @@ public class 断点续传到青牛云 {
         Configuration cfg = new Configuration(Region.region0());
         //...其他参数参考类注释
         //...生成上传凭证，然后准备上传
-        String accessKey = "rejtT_MP2Ymmy4nwytfOEH3D-Z0nTfAhXkPwrcbT";
-        String secretKey = "KugRqeND8ObzEjZOlkXdhumwITLrgGk8UcDQ-rMB";
+        String accessKey = "-";
+        String secretKey = ";
         String bucket = "ihrm-images";
         //如果是Windows情况下，格式是 D:\\qiniu\\test.png
         String localFilePath = "D:\\001.png";
