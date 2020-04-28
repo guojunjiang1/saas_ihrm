@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/a-test-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/b-shiro_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/ihrm_employee/pom.xml" />
+        <option value="$PROJECT_DIR$/c-poi-test/pom.xml" />
+        <option value="$PROJECT_DIR$/c-qiniuyun-test/pom.xml" />
+        <option value="$PROJECT_DIR$/c-jpsperReport-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/c-jasperReport-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/d-face-test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
