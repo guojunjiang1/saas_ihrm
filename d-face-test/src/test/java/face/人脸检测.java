@@ -19,7 +19,7 @@ public class 人脸检测 {
     public void testFaceCheck() throws Exception {
         //1.创建java代码和百度云交互的client对象
         //百度云，人脸识别应用里的
-        AipFace client = new AipFace("19622227","SZjekuXBmR0NiodOHTU9wKvp","AfOcwKpZs5v1mjlYm83FADX16ohUUesR");
+        AipFace client = new AipFace("","","");
         //构造图片
         String path = "D:\\新桌面\\office\\44C18BCFC2418A5AC2764B89879B1B32.png";
         //上传的图片  两种格式 ： url地址，Base64字符串形式
